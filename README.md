@@ -21,7 +21,7 @@
 <strong>🚧 Status:</strong> In Process
 - I am currently developing a personal full-stack web application that serves as an article publishing platform. The project integrates a MySQL database with a JavaScript-based server to build RESTful APIs that retrieve and manage article data. These APIs dynamically deliver content to the front-end, where the articles are rendered for users. This is my first full-stack project, focused on implementing backend-to-frontend communication through basic API connections and database integration. 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
