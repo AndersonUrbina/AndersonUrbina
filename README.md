@@ -8,8 +8,8 @@
   - [Program to calculate the discount of a product](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Website based on HTML, CSS, Js, PHP</b>
   - [IT includes form validation and an email message to confirm successful submission.](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>def-function-app (Python)</b>
-  - [It calculates the gross income, net pay, and deductions based on hourly wage and weekly hours worked](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Paycheck Calculator (Python)</b>
+  - [It calculates the gross income, net pay, and deductions based on hourly wage and weekly hours worked](https://github.com/AndersonUrbina/PaycheckCalculator)
 - <b>Software Development LifeCycle (SDLC)</b>
   - [Feasibility Study based on Work Order App scenario](https://github.com/AndersonUrbina/AndersonUrbina/blob/4dbeef1390d804b3849af430897e73e308629e0d/docs/Feasibility_Report.pdf)
   - [Context Flow Diagram (CFD) & Level 0 Data Flow Diagram (DFD) - Work Order App](https://github.com/AndersonUrbina/AndersonUrbina/blob/4dbeef1390d804b3849af430897e73e308629e0d/docs/Modeling%20-%20Context%20%26%20Level%200%20DFD.pdf)
