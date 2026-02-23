@@ -6,7 +6,7 @@
   - [Course Project - Console application to manage IT service tickets.](https://github.com/AndersonUrbina/IT-Support-Ticket-Manager)
 - <b>Product Discount Calculator (PHP)</b>
   - [Program to calculate the discount of a product](https://github.com/AndersonUrbina/ProductDiscountCalculator)
-- <b>Website based on HTML, CSS, Js, PHP</b>
+- <b>Website based on HTML, CSS, JS, PHP</b>
   - [IT includes form validation and an email message to confirm successful submission.](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Paycheck Calculator (Python)</b>
   - [It calculates the gross income, net pay, and deductions based on hourly wage and weekly hours worked](https://github.com/AndersonUrbina/PaycheckCalculator)
