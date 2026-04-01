@@ -17,7 +17,7 @@
 <h2>Currently Learning</h2>
 
 <strong>[Evolvivo Article Publishing Platform](https://github.com/AndersonUrbina/Evolvivo) | HTML, CSS, JavaScript, MySQL, REST APIs, Node.js Backend, Sequelize ORM, MVC Structure + Service Layer, Middleware System, Front-End rendering via API</strong><br>
-<strong>🚧 Status:</strong> In Process
+<strong>🚧 Status:</strong> Locally Developing Backend.
 - I am currently developing a personal full-stack web application that functions as an article publishing platform. The system uses a MySQL relational database and a Node.js backend with Sequelize to implement RESTful APIs for managing and retrieving article data. The backend uses a layered MVC architecture, with a dedicated service layer that separates business logic from routing and controllers. Middleware components handle authentication, authorization, request validation, and centralized error handling. These APIs provide dynamic content to the front-end, where articles are rendered through a structured user interface. This project is my first full-stack application and focuses on backend architecture, API development, database design, and reliable communication between the backend and frontend.
 
 <h2> Connect with me:</h2>
