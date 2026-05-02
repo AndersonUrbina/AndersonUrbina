@@ -7,7 +7,7 @@
 - <b>Product Discount Calculator (PHP)</b>
   - [Program to calculate the discount of a product](https://github.com/AndersonUrbina/ProductDiscountCalculator)
 - <b>Website based on HTML, CSS, JS, PHP</b>
-  - [IT includes form validation and an email message to confirm successful submission.](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [IT includes form validation and an email message to confirm successful submission.](https://andersonurbina.com/WTC/m7/contact.html)
 - <b>Paycheck Calculator (Python)</b>
   - [It calculates the gross income, net pay, and deductions based on hourly wage and weekly hours worked](https://github.com/AndersonUrbina/PaycheckCalculator)
 - <b>Software Development LifeCycle (SDLC)</b>
