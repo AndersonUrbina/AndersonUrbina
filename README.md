@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-urbina-8b6810382/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/andersondurbina)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersondurbina/)
-[![Dean's List](https://img.shields.io/badge/Dean's%20List-MPTC-1a73e8?style=for-the-badge&logoColor=white)](https://www.morainepark.edu/about-mptc/deans-list/#:~:text=Unke-,Anderson,Urbina,-Breleigh)
+[![Dean's List](https://img.shields.io/badge/MPTC-fb772b?style=for-the-badge&logoColor=white)](https://www.morainepark.edu/about-mptc/deans-list/#:~:text=Unke-,Anderson,Urbina,-Breleigh)
 
 </div>
 
