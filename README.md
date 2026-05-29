@@ -1,35 +1,118 @@
-<h1>Hi, I'm Anderson! <br/><a href="https://www.morainepark.edu/about-mptc/deans-list/#:~:text=Unke-,Anderson,Urbina,-Breleigh">Moraine Park Technical College - Future IT Software Development</a></h1>
+<div align="center">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Anderson%20Urbina&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=IT%20Software%20Development%20%E2%80%94%20Moraine%20Park%20Technical%20College&descSize=14&descAlignY=78&descColor=b0c4d8" />
 
-- <b>IT Support Ticket Manager (C#)</b>
-  - [Course Project - Console application to manage IT service tickets.](https://github.com/AndersonUrbina/IT-Support-Ticket-Manager)
-- <b>Product Discount Calculator (PHP)</b>
-  - [Program to calculate the discount of a product](https://github.com/AndersonUrbina/ProductDiscountCalculator)
-- <b>Website based on HTML, CSS, JS, PHP</b>
-  - [IT includes form validation and an email message to confirm successful submission.](https://andersonurbina.com/WTC/m7)
-- <b>Paycheck Calculator (Python)</b>
-  - [It calculates the gross income, net pay, and deductions based on hourly wage and weekly hours worked](https://github.com/AndersonUrbina/PaycheckCalculator)
-- <b>Software Development LifeCycle (SDLC)</b>
-  - [Feasibility Study based on Work Order App scenario](https://github.com/AndersonUrbina/AndersonUrbina/blob/4dbeef1390d804b3849af430897e73e308629e0d/docs/Feasibility_Report.pdf)
-  - [Context Flow Diagram (CFD) & Level 0 Data Flow Diagram (DFD) - Work Order App](https://github.com/AndersonUrbina/AndersonUrbina/blob/4dbeef1390d804b3849af430897e73e308629e0d/docs/Modeling%20-%20Context%20%26%20Level%200%20DFD.pdf)
+<br/>
 
-<h2>Currently Learning</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-urbina-8b6810382/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/andersondurbina)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersondurbina/)
+[![Dean's List](https://img.shields.io/badge/Dean's%20List-MPTC-1a73e8?style=for-the-badge&logoColor=white)](https://www.morainepark.edu/about-mptc/deans-list/#:~:text=Unke-,Anderson,Urbina,-Breleigh)
 
-<strong>[Evolvivo Article Publishing Platform](https://github.com/AndersonUrbina/Evolvivo) | HTML, CSS, JavaScript, MySQL, REST APIs, Node.js Backend, Sequelize ORM, MVC Structure + Service Layer, Middleware System, Front-End rendering via API</strong><br>
-<strong>🚧 Status:</strong> Locally Developing Backend.
-- I am currently developing a personal full-stack web application that functions as an article publishing platform. The system uses a MySQL relational database and a Node.js backend with Sequelize to implement RESTful APIs for managing and retrieving article data. The backend uses a layered MVC architecture, with a dedicated service layer that separates business logic from routing and controllers. Middleware components handle authentication, authorization, request validation, and centralized error handling. These APIs provide dynamic content to the front-end, where articles are rendered through a structured user interface. This project is my first full-stack application and focuses on backend architecture, API development, database design, and reliable communication between the backend and frontend.
+</div>
 
-<h2> Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 👋 About Me
 
-[twitter]: https://x.com/andersondurbina
-[instagram]: https://www.instagram.com/andersondurbina/
-[linkedin]: https://www.linkedin.com/in/anderson-urbina-8b6810382/
+I'm an IT Software Development student building real-world skills across the full stack — from C# console apps and PHP backends to Node.js REST APIs and relational databases. Currently focused on backend architecture, API design, and bridging clean code with thoughtful frontend delivery.
 
-<!--
-**AndersonUrbina/AndersonUrbina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cs,php,python,js,html,css,nodejs,mysql,git,github,vscode&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📂 Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AndersonUrbina/IT-Support-Ticket-Manager"><b>IT Support Ticket Manager</b></a></td>
+      <td>Console app to create, track, and resolve IT service tickets</td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AndersonUrbina/ProductDiscountCalculator"><b>Product Discount Calculator</b></a></td>
+      <td>Calculates product discounts based on dynamic inputs</td>
+      <td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://andersonurbina.com/WTC/m7"><b>Full-Stack Website</b></a></td>
+      <td>Form validation with email confirmation on successful submission</td>
+      <td><img src="https://img.shields.io/badge/HTML%2FCSS%2FJS%2FPHP-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AndersonUrbina/PaycheckCalculator"><b>Paycheck Calculator</b></a></td>
+      <td>Computes gross income, net pay, and deductions from hourly wage</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AndersonUrbina/AndersonUrbina/blob/4dbeef1390d804b3849af430897e73e308629e0d/docs/Feasibility_Report.pdf"><b>SDLC — Feasibility Study</b></a></td>
+      <td>Feasibility analysis for a Work Order App scenario</td>
+      <td><img src="https://img.shields.io/badge/Docs-gray?style=flat-square&logo=readthedocs&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AndersonUrbina/AndersonUrbina/blob/4dbeef1390d804b3849af430897e73e308629e0d/docs/Modeling%20-%20Context%20%26%20Level%200%20DFD.pdf"><b>SDLC — CFD & Level 0 DFD</b></a></td>
+      <td>Context Flow Diagram and Data Flow Diagram for Work Order App</td>
+      <td><img src="https://img.shields.io/badge/Docs-gray?style=flat-square&logo=readthedocs&logoColor=white"/></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🚧 Currently Building
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/AndersonUrbina/Evolvivo"><b>Evolvivo — Article Publishing Platform</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Status-In%20Progress-f0a500?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      My first full-stack application. A MySQL-backed article platform with a Node.js + Sequelize backend, RESTful APIs, and a layered MVC architecture. A dedicated service layer separates business logic from routing and controllers. Middleware handles authentication, authorization, request validation, and centralized error handling — all feeding a structured, API-driven front-end.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVC-555555?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AndersonUrbina&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonUrbina&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=80&section=footer" />
+</div>
