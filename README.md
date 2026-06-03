@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Anderson%20Urbina&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=IT%20Software%20Development%20%E2%80%94%20Moraine%20Park%20Technical%20College&descSize=14&descAlignY=78&descColor=b0c4d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Anderson%20Urbina&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=IT%20Software%20Development%20Student%20%E2%80%94%20Moraine%20Park%20Technical%20College&descSize=14&descAlignY=78&descColor=b0c4d8" />
 
 <br/>
 
